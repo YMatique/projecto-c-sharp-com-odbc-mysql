@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KooLiYAnt5s=",
+  "success": true,
+  "projectFilePath": "D:\\Files\\Trabalhos\\ISCED\\Francelino\\III ANO\\II BLOCO\\Base de Dados II\\Códigos copeados\\ODBC\\C#\\Clinica\\Clinica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yuvi Matique YAM\\.nuget\\packages\\system.data.odbc\\8.0.0\\system.data.odbc.8.0.0.nupkg.sha512",
+    "C:\\Users\\Yuvi Matique YAM\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
